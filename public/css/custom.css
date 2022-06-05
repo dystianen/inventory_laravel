@@ -1,0 +1,7 @@
+.nav-link .icon-shape i{
+    color: #cb0c9f;
+}
+
+.nav-link.active .icon-shape i{
+    color: #ffffff;
+}
